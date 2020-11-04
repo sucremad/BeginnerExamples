@@ -1,7 +1,7 @@
 # BeginnerExamples
 A repo that is not high-level, really f:mag_right:r away from high-level
 
-## C [:ghost:](https://github.com/sucremad/BeginnerExamples/tree/main/BeginnerExamples/C)
+## C [🕷️](https://github.com/sucremad/BeginnerExamples/tree/main/BeginnerExamples/C)
 * [swap](https://github.com/sucremad/BeginnerExamples/blob/main/BeginnerExamples/C/swap.c) ---- _A swap program for two-digit numbers_
 * [circle](https://github.com/sucremad/BeginnerExamples/blob/main/BeginnerExamples/C/circle.c) ---- _Finding the area and perimeter of the circle based on the selection_
 
