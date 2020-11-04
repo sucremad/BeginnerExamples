@@ -26,3 +26,5 @@ A repo that is not high-level, really f:mag_right:r away from high-level
   - Binary Search ([C#](https://github.com/sucremad/BeginnerExamples/blob/main/BeginnerExamples/Algorithms/SearchingAlg/binarySearch.cs))
   - Linear Search ([Java](https://github.com/sucremad/BeginnerExamples/blob/main/BeginnerExamples/Algorithms/SearchingAlg/linearSearch.java))
   
+
+[:link:](https://github.com/BilgisayarKavramlari/Programlamaya-Giris)You can also check here.
