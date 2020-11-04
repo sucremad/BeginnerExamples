@@ -2,29 +2,29 @@
 
 int main()
 {
-	int secim;
-	float sonuc,yaricap;
+	int choice;
+	float result,radius;
 
 	float pi = 3.14;
 
-	printf("yaricap degeri giriniz:\n");
-	scanf_s("%f", &yaricap);
-	printf("alan icin 1,cevre icin 0 degerini giriniz:\n");
-	scanf_s("%d", &secim);
+	printf("Enter the radius:\n");
+	scanf_s("%f", &radius);
+	printf("Type 1 for the area,or 0 for the perimeter:\n");
+	scanf_s("%d", &choice);
 
-	if (secim == 1)
+	if (choice == 1)
 	{
-		sonuc = pi * yaricap*yaricap;
-		printf("Dairenin alani: %.2f\n", sonuc);
+		result = pi * radius*radius;
+		printf("Area of the circle: %.2f\n", result);
 	}
 
-	else if (secim == 0)
+	else if (choice == 0)
 	{
-		sonuc = 2 * pi*yaricap;
-		printf("%.2f", sonuc);
+		result = 2 * pi*radius;
+		printf("%.2f", result);
 	}
 	else
-		printf("hatali giris!");
+		printf("Invalid Choice!");
 
 	system("pause");
 
