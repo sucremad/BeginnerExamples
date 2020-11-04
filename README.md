@@ -1,5 +1,5 @@
 # BeginnerExamples
-A repo that is not high-level, really f:loop:r away from high-level
+A repo that is not high-level, really f:mag:r away from high-level
 
 ## C
 * swap ---- _A swap program for two-digit numbers_
