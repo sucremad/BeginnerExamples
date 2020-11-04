@@ -14,7 +14,7 @@ A repo that is not high-level, really f:mag_right:r away from high-level
 
 ## Python [:octocat:](https://github.com/sucremad/BeginnerExamples/tree/main/BeginnerExamples/Python)
 * [calculater](https://github.com/sucremad/BeginnerExamples/blob/main/BeginnerExamples/Python/calculater.py) ---- _Make it a scientific calculator for added complexity with **math** module_
-* [change](https://github.com/sucremad/BeginnerExamples/blob/main/BeginnerExamples/Python/change_return_program.py) ---- _Change Return Program - The user enters a cost and then the amount of money given. The program will figure out the  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;change and the number of quarters, dimes, nickels, pennies needed for the change_
+* [change](https://github.com/sucremad/BeginnerExamples/blob/main/BeginnerExamples/Python/change_return_program.py) ---- _Change Return Program - The user enters a cost and then the amount of money given. The program will figure out the  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;change and the number of quarters, dimes, nickels, pennies needed for the change_
 
 ## Algorithms [:octocat:](https://github.com/sucremad/BeginnerExamples/tree/main/BeginnerExamples/Algorithms)
 - ###  Sorting Algorithms 
