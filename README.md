@@ -31,5 +31,6 @@ A repo that is not high-level, really f:mag_right:r away from high-level
   <br/>
   <br/>
   <br/>
-  [:link:](https://github.com/karan/Projects) You can also check here. <br/> [:link:](https://github.com/BilgisayarKavramlari/Programlamaya-Giris) And also here.
+  
+  [:link:](https://github.com/karan/Projects) You can also check here. 
 
