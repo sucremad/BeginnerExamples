@@ -4,6 +4,7 @@ A repo that is not high-level, really f:mag_right:r away from high-level
 ## C [:octocat:](https://github.com/sucremad/BeginnerExamples/tree/main/BeginnerExamples/C)
 * [swap](https://github.com/sucremad/BeginnerExamples/blob/main/BeginnerExamples/C/swap.c) ---- _A swap program for two-digit numbers_
 * [circle](https://github.com/sucremad/BeginnerExamples/blob/main/BeginnerExamples/C/circle.c) ---- _Finding the area and perimeter of the circle based on the selection_
+* You can also check [here](https://github.com/sucremad/CProgrammingLanguage). :paw_prints:
 
 ## Java [:octocat:](https://github.com/sucremad/BeginnerExamples/tree/main/BeginnerExamples/Java)
 * [scanner_class](https://github.com/sucremad/BeginnerExamples/blob/main/BeginnerExamples/Java/scanner_class.java) ---- _A program that takes your name, age and gender as char (F or M) and then prints on screen_
